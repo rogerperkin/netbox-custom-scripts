@@ -1,2 +1,2 @@
 # Netbox Custom Scripts 
-Netbox Custom Scripts - Python Scripts to extend functionality of Netbox
+Netbox Custom Scripts - Python Script to extend functionality of Netbox
